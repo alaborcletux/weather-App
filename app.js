@@ -1,5 +1,4 @@
 let weatherApiKey = "81dc6cdb434e2979f0032d9ebbab0e49";
-// let weatherDataEl = document.getElementById("weather-data");
 let weatherDataEl = document.getElementById("weather-data");
 let cityInput = document.getElementById("city-input");
 let formEl = document.querySelector("form");
